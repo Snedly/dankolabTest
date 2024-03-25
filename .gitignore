@@ -1,3 +1,5 @@
 .meta
 Temp/
 Library/
+Logs/
+.log
