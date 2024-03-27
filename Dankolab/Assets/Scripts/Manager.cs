@@ -3,11 +3,6 @@ using UnityEngine.UI;
 
 public class Manager : MonoBehaviour
 {
-    [Header("Main")]
-    public Transform m_CanvasTransform = null;
-
-    [Space(10)]
-
     [Header("Play")]
     public GameObject m_PlayWindow = null;
 
